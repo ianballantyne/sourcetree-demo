@@ -1,0 +1,15 @@
+{
+    "rose": {
+        "name": "Rosa rubiginosa",
+        "type": "perennial",
+        "leaves_desc": ["5-15cm long", "small prickles"],
+        "flowers_desc": ["red/white/pink", "five petals", "five sepals"]
+    },
+    "mistletoe": {
+        "name": "Viscum album",
+        "type": "hemi-parasitic shrub",
+        "leaves_desc": ["yellowish-green", "2-8cm long", "strap-shaped", "leathery texture"],
+        "flowers_desc": ["yellowish-green", "0.2cm diameter", "inconspicuous"],
+        "fruit": "berry"
+    }
+}

@@ -17,7 +17,7 @@
     "beech": {
         "name": "Fagus sylvatica",
         "type": "deciduous",
-        "leaves_desc": ["4-9cm long", "stalked", "oval", "pointed tip", "wavy edge"],
+        "leaves_desc": ["4-9cm long", "stalked", "oval"],
         "typical_height": 50,
         "typical_age": 200
     },

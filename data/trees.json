@@ -31,7 +31,7 @@
     "coconut_palm": {
         "name": "Cocos nucifera",
         "type": "arecaceae",
-        "leaves_desc": ["pinnate", "400-600cm long"],
+        "leaves_desc": ["400-600cm long", "pinnate"],
         "fruit": "coconut",
         "typical_height": 30,
         "typical_age": 90

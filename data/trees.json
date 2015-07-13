@@ -35,5 +35,12 @@
         "fruit": "coconut",
         "typical_height": 30,
         "typical_age": 90
+    },
+    "silver_birch": {
+        "name": "Betula pendula",
+        "type": "deciduous",
+        "leaves_desc": ["3-7cm", "triangular", "broad wedge-shaped bases", "slender pointed tips"],
+        "typical_height": 25,
+        "typical_age": 120
     }
 }

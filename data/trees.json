@@ -20,5 +20,12 @@
         "leaves": "4-9cm long, stalked, oval, pointed tip, wavy edge",
         "typical_height": 50,
         "typical_age": 200
+    },
+    "source_tree": {
+        "name": "Sourceus Manageous",
+        "type": "gui",
+        "leaves": "grey/white, git-like, not too complex",
+        "typical_height": 0.3,
+        "typical_age": 5
     }
 }

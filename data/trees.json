@@ -1,0 +1,24 @@
+{
+    "english_oak": {
+        "name": "Quercus robur",
+        "type": "deciduous",
+        "leaves": "10cm long, 4-5 lobes, smooth edges",
+        "fruit": "acorn",
+        "typical_height": 40,
+        "typcial_age": 250
+    },
+    "scots_pine": {
+        "name": "Pinus sylvestris",
+        "type": "evergreen conifer",
+        "leaves": "Blue/green, needle-like, slightly twisted",
+        "typical_height": 35,
+        "typical_age": 700
+    },
+    "beech": {
+        "name": "Fagus sylvatica",
+        "type": "deciduous",
+        "leaves": "4-9cm long, stalked, oval, pointed tip, wavy edge",
+        "typical_height": 50,
+        "typical_age": 200
+    }
+}
